@@ -1,6 +1,6 @@
 # OutdatedComponentLib
 
-A lightweight component library for building modern UIs.
+This is a lightweight component library for building modern UIs.
 
 ## Installation
 
